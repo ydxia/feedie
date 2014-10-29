@@ -1,0 +1,3 @@
+webassets:
+    base_dir = ../htdocs/assets
+    base_url = assets
